@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Akiba</string>
+
+    <string name="title_home">Akiba</string>
+    <string name="title_dashboard">Account</string>
+    <string name="title_notifications">Inbox</string>
+    <string name="title_profile">Profile</string>
+
+</resources>
